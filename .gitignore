@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Test/Library/ArtifactDB
+Test/Library/* 
+Test/Logs/* 
+Test/Temp/* 
+ 
+.vsconfig 
+*.sln 
